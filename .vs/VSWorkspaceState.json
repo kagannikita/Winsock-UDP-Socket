@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\UDPClient",
+    "\\UDPClient\\UDPClient",
+    "\\UDPServer",
+    "\\UDPServer\\UDPServer"
+  ],
+  "SelectedNode": "\\UDPClient\\UDPClient\\UDPClient.cpp",
+  "PreviewInSolutionExplorer": false
+}

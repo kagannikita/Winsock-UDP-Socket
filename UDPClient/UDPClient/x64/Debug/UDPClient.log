@@ -1,0 +1,4 @@
+﻿  UDPClient.cpp
+D:\Программирование\UDPSocket\UDPClient\UDPClient\UDPClient.cpp(8,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+D:\Программирование\UDPSocket\UDPClient\UDPClient\UDPClient.cpp(29,90): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  UDPClient.vcxproj -> D:\Программирование\UDPSocket\UDPClient\x64\Debug\UDPClient.exe
